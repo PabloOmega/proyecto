@@ -13,4 +13,6 @@ venv/
 .vscode/
 .idea/
 
+temp/
+
 .DS_Store
